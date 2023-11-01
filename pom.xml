@@ -15,4 +15,12 @@
         <module>common-utils-lib</module>
         <module>crud-lib</module>
     </modules>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>Pifrans packages</name>
+            <url>https://maven.pkg.github.com/pifrans/pifrans-libraries</url>
+        </repository>
+    </distributionManagement>
 </project>
