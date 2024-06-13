@@ -65,7 +65,7 @@
     <repositories>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/pifrans/common-utils-lib</url>
+            <url>https://maven.pkg.github.com/pifrans/pifrans-libraries</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
@@ -76,7 +76,7 @@
         <repository>
             <id>github</id>
             <name>Pifrans packages</name>
-            <url>https://maven.pkg.github.com/pifrans/starter-lib</url>
+            <url>https://maven.pkg.github.com/pifrans/pifrans-libraries</url>
         </repository>
     </distributionManagement>
 </project>
